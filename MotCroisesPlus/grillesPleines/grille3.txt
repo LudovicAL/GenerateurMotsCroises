@@ -1,0 +1,74 @@
+BECTE0APPAS0
+ELANS0CLAIES
+CAC0TVQ0CRIE
+AN0AIGUE0ESM
+R0MRV0ITB0ME
+EVASE0SALUER
+0IRE000LEU00
+CHINE0CESSAT
+U0AIT0AEE0BA
+BS0CAIDS0MOL
+EUS0LEU0VIII
+ECIME0CREEES
+HORIZONTAUX
+--------------------------
+0,0 BECTE :: Becquette;Becqueté;
+6,0 APPAS :: Leurre;
+0,1 ELANS :: Cerfs;
+6,1 CLAIES :: Clayons;
+0,2 CAC :: Conseil des arts du Canada;
+4,2 TVQ :: Taxe de vente du Québec;
+8,2 CRIE :: Hurle;
+0,3 AN :: Andorre (code pays);
+3,3 AIGUE :: Pointue;
+9,3 ESM :: Environmentally Sound Management of Waste  ;
+2,4 MRV :: Measurement, Reporting and Verification;
+6,4 ITB :: Individual Travel Behaviour;
+10,4 ME :: Maître;Maine;
+0,5 EVASE :: Élargis;Élargi;
+6,5 SALUER :: Dire bonjour;
+1,6 IRE :: Ancienne colère;Vieille scène;Colère;
+7,6 LEU :: Monnaie de Moldavie, de Roumanie;Ancien loup;
+0,7 CHINE :: Pays d'Asie;
+6,7 CESSAT :: Arrêtât;Interrompît;
+2,8 AIT :: Possède;
+6,8 AEE :: Agence européenne pour l'Environnement;
+10,8 BA :: Baryum;Bahrain (code pays);Bonne action de scout;
+0,9 BS :: Bart Simpson;
+3,9 CAIDS :: Chefs;
+9,9 MOL :: Mole;
+0,10 EUS :: Possédai;
+4,10 LEU :: Monnaie de Moldavie, de Roumanie;Ancien loup;
+8,10 VIII :: Huit;
+0,11 ECIME :: Écrête;Étête;
+6,11 CREEES :: Conçues;Inventées;
+VERTICAUX
+--------------------------
+0,0 BECARE :: Symbole d'altération musicale;
+0,7 CUBEE :: Stérée;
+1,0 ELAN :: Cerf;
+1,5 VIH :: Virus de l’immunodéficience humaine;
+1,9 SUC :: Liquide digestif;
+2,0 CAC :: Conseil des arts du Canada;
+2,4 MARIA :: Municipalité du Québec;
+2,10 SI :: Système international;Slovénie (code pays);Note;Note de musique élevée;Silicium;
+3,0 TN :: Tennessee;Tonga (code pays);
+3,3 ARSENIC :: Élément atomique (As);Mort-aux-rats;
+4,0 ESTIVE :: Alpage;
+4,7 ETALE :: Étendu;
+5,2 VG :: Vérificateur général;
+5,9 IE :: Id est;C'est-à-dire, abrégé en latin;
+6,0 ACQUIS :: Achetai;
+6,7 CADUC :: Se dit des feuilles se détachant et tombant à chaque saison;Périmé;
+7,0 PL :: Pleine lune;Pologne (code pays);
+7,3 ETALEES :: Étendues;
+8,0 PAC :: Public Affairs and Communications Directorate;
+8,4 BLESE :: Zézayé;Zozoté;Zézaye;Zozote;
+8,10 VE :: Cale de mécanique;Venezuela (code pays);
+9,0 AIRE :: Surface;Nid d'aigle;Nidifie;Nidifié;
+9,5 UUS :: Ununseptium;
+9,9 MIE :: Ancienne fiancée;Au cœur du pain;Partie molle du pain;
+10,0 SEISME :: Secousse de la croûte terrestre;
+10,7 ABOIE :: Jappe;
+11,1 SEMER :: Répandre;Échapper à;Distancer;Parsemer;Planter;
+11,7 TALIS :: Enquête internationale sur l'enseignement;

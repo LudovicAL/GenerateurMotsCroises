@@ -1,0 +1,74 @@
+BADGE0CHEFS0
+ERINE0ALTIER
+CAR0TAD0LXII
+HS0AIGUE0ESD
+E0IBO0CLI0ME
+RAMEN0SASSER
+0FIT000GST00
+BATIR0CAUSEE
+O0EEA0AGE0GM
+EP0SEIDE0SAI
+CAN0DRU0BOIS
+ETEND0CRENEE
+HORIZONTAUX
+--------------------------
+0,0 BADGE :: Épinglette;Insigne;
+6,0 CHEFS :: Leaders;Meneurs;
+0,1 ERINE :: Variante de érigne;
+6,1 ALTIER :: Fier;
+0,2 CAR :: Bus;Autobus;Puisque;Parce que;
+4,2 TAD :: Direction des échanges et de l'agriculture  ;
+8,2 LXII :: Soixante-deux;
+0,3 HS :: Hassium;Hors sujet ou hors service;
+3,3 AIGUE :: Pointue;
+9,3 ESD :: Emission Scenario Documents;
+2,4 IBO :: D'un peuple du Nigeria;
+6,4 CLI :: Composite Leading Indicators  ;
+10,4 ME :: Maître;Maine;
+0,5 RAMEN :: Pâte alimentaire longue;
+6,5 SASSER :: Tamiser;Filtrer;
+1,6 FIT :: Réalisa;Réalisât;
+7,6 GST :: Goods and Services Tax   ;
+0,7 BATIR :: Construire;Ériger;Charpenter;Édifier;Fabriquer;
+6,7 CAUSEE :: Parlée;
+2,8 EEA :: European Economic Area ;
+6,8 AGE :: Époque;Période;Ancienneté;Vieux;
+10,8 GM :: Allemagne (code pays);General Motors;Game Master;
+0,9 EP :: Eau pluviale, éclairage public ou école polytechnique;
+3,9 SEIDE :: Adepte fanatique;Homme d'un dévouement aveugle;
+9,9 SAI :: Son Altesse Impériale;Petit singe à longue queue;
+0,10 CAN :: Canadien;
+4,10 DRU :: Touffu;Serré;
+8,10 BOIS :: Terrain peuplée d'arbres;Petite étendue couverte d'arbres;Pinède;Lampe;Lape;Sirote;Trinque;
+0,11 ETEND :: Applique;Étale;Allonge;Déroule;Répand;Dissémine;
+6,11 CRENEE :: Crantée;
+VERTICAUX
+--------------------------
+0,0 BECHER :: Récipient de laboratoire;Labourer;
+0,7 BOECE :: Philosophe de l'antiquité;
+1,0 ARAS :: Perroquets;
+1,5 AFA :: Activities of Foreign Affiliates;
+1,9 PAT :: Match nul aux échecs;
+2,0 DIR :: Directeur;Directrice;Direction;
+2,4 IMITE :: Copie;Singe;
+2,10 NE :: Néon;Canton de Neuchâtel;Nebraska;Issu;Sorti;
+3,0 GN :: Grandeur nature;
+3,3 ABETIES :: Abruties;
+4,0 EETION :: Roi de Thèbes, père d'Andromaque;
+4,7 RAEDD :: Réunion annuelle des experts du développement durable;
+5,2 AG :: Argent;Assemblée générale;
+5,9 IR :: Infrarouge;Iran (code pays);Fin de verbe du deuxième groupe;Infinitif;Iridium;
+6,0 CADUCS :: Périmés;
+6,7 CADUC :: Se dit des feuilles se détachant et tombant à chaque saison;Périmé;
+7,0 HL :: Half-Life;
+7,3 ELAGAGE :: Ébranchage;
+8,0 ETL :: Équilibre thermodynamique local;
+8,4 ISSUE :: Née;Sortie;
+8,10 BE :: Béryllium;Belgique;
+9,0 FIXE :: Regarde;
+9,5 STS :: Saints;Saintes;
+9,9 SON :: Déterminant possessif;
+10,0 SEISME :: Secousse de la croûte terrestre;
+10,7 EGAIE :: Amuse;Déride;Réjouis;
+11,1 RIDER :: Plier;
+11,7 EMISE :: Radiodiffusée;Exhalée;Télédiffusée;Exprimée;
